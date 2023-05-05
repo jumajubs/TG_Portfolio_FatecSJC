@@ -2,19 +2,18 @@
 
 ## Introdução
 
-Ingressei no curso tecnólogo em análise e desenvolvimento de sistemas na FATEC-SJC no primeiro semestre de 2021. Tenho uma graduação em radiologia, ao decorrer desse curso conheci um pouco de tecnologia da informação e a partir disso decidi que minha próxima graduação seria nessa área. 
-
+Eu ingressei no curso de tecnólogo em análise e desenvolvimento de sistemas na FATEC-SJC, no primeiro semestre de 2021. Tenho uma graduação em radiologia, ao decorrer desse curso conheci um pouco de tecnologia da informação, e a partir disso decidi que minha próxima graduação seria nessa área. Eu trabalhei como Jovem Aprendiz de cobradora de ônibus durante um ano, entre 2018 e 2019, fui estagiária em radiologia odontológica, de setembro até dezembro de 2020 e atualmente faço iniciação cientifica no INPE, que iniciei em setembro de 2022.
 ## Contatos
 * [Github](https://github.com/jumajubs)
 * [LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188)
 
 ## Meus Principais Conhecimentos
-Durante esse curso já tive contato com tecnologias como HTML, CSS, JS, ReactJS, React-Native, Python, C, Java, PostgreSQL, Mysql, Oracle, GIT, GitHub. Por enquanto tenho maior afinidade com as ferramentas usadas no Front-end, como html, css, js, React-js e React-native e com Python, que utilizo também na iniciação cientifica que faço no INPE.
+Durante esse curso já tive contato com tecnologias como: HTML, CSS, JS, ReactJS, React-Native, Python, C, Java, PostgreSQL, Mysql, Oracle, GIT, GitHub. Por enquanto tenho maior afinidade com as ferramentas usadas no Front-end, como: html, css, js, React-js e React-native e com Python, que utilizo com frequência na iniciação cientifica que faço no INPE e nas maratonas de programação em que participo.
 
 ## Meus Projetos
 
 ### Em 2021-1
-Esse foi o meu primeiro API, não tinha tido nenhum contato com a área de TI antes de ingressar na Fatec. A proposta do projeto foi a criação de um site para uma ONG que ajudava crianças, divulgando seus feitos para buscar mais visibilidade para atrair doações e inscrições de voluntários e projetos. Para realização, nós alunos nos dividimos em grupos, que se organizaram usando de metodologias ágeis, como Scrum. Visando os requisitos do cliente para realização de um site que resolvesse seus problemas(necessidade de mais interessados em ajudar a ONG) fizemos um site onde era exposto às atividades da ONG, seu propósito, de ajudar cada vez mais crianças e com páginas de cadastros para os interessados em ajudar, podendo ser de doações, voluntariado ou ideias de projetos e parcerias.
+Esse foi o meu primeiro API, não tinha tido nenhum contato com a área de TI antes de ingressar na Fatec. A proposta  passada foi a criação de um site para uma ONG, que ajudava crianças, divulgando seus feitos, para buscar mais visibilidade, assim, atraindo mais doações e inscrições de voluntários para os projetos existentes e criação de novos. Para realização, nós alunos nos dividimos em grupos, que se organizaram usando de metodologias ágeis, como Scrum. Visando os requisitos do cliente para solução de seus problemas(necessidade de mais interessados em ajudar a ONG), fizemos um site onde era exposto às atividades da ONG, seu propósito, de ajudar cada vez mais crianças e com páginas de cadastros para os interessados em ajudar, podendo ser de doações, voluntariado ou ideias de projetos e parcerias.
 
 ![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/site.gif)
 
