@@ -10,6 +10,15 @@ Eu ingressei no curso de tecnólogo em análise e desenvolvimento de sistemas na
 ## Meus Principais Conhecimentos
 Durante a faculdade já tive contato com tecnologias como: HTML, CSS, JS, ReactJS, React-Native, Python, C, Java, PostgreSQL, Mysql, Oracle, GIT, GitHub. Por enquanto tenho maior afinidade com as ferramentas usadas no Front-end, como: html, css, js, React-js,  React-native e com Python, que utilizo com frequência na iniciação cientifica que faço no INPE e nas maratonas de programação em que participo.
 
+| Semestre     | Descrição                                                                             |
+| ------------ | ------------------------------------------------------------------------------------- |
+| 1º Semestre  | Website para uma ONG de apoio para crianças                                             |
+| 2º Semestre  | CRUD para gerenciamento de quadro de presenças             |
+| 3º Semestre  | Sistema para armazenar, consultar e processar gastos com contas de água, energia e gás  |
+| 4º Semestre  | Aplicação web para controle de jornada de trabalho de hora extras e sobreavisos       |
+| 5º Semestre  | Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC)                           |
+| 6º Semestre  |                                                                                       |
+
 ## Meus Projetos
 
 ### Em 2021-1
