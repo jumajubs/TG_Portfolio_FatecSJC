@@ -10,16 +10,18 @@ Eu ingressei no curso de tecnólogo em análise e desenvolvimento de sistemas na
 ## Meus Principais Conhecimentos
 Durante a faculdade já tive contato com tecnologias como: HTML, CSS, JS, ReactJS, React-Native, Python, C, Java, PostgreSQL, Mysql, Oracle, GIT, GitHub. Por enquanto tenho maior afinidade com as ferramentas usadas no Front-end, como: html, css, js, React-js,  React-native e com Python, que utilizo com frequência na iniciação cientifica que faço no INPE e nas maratonas de programação em que participo.
 
-| Semestre     | Descrição                                                                             |
-| ------------ | ------------------------------------------------------------------------------------- |
-| 1º Semestre  | Website para uma ONG de apoio para crianças                                             |
-| 2º Semestre  | CRUD para gerenciamento de quadro de presenças             |
-| 3º Semestre  | Sistema para armazenar, consultar e processar gastos com contas de água, energia e gás  |
-| 4º Semestre  | Aplicação web para controle de jornada de trabalho de hora extras e sobreavisos       |
-| 5º Semestre  | Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC)                           |
-| 6º Semestre  |                                                                                       |
 
 ## Meus Projetos
+
+| Semestre     | Descrição                                                                             |
+| ------------ | ------------------------------------------------------------------------------------- |
+| 1º Semestre  | [Website para uma ONG de apoio para crianças]()                                             |
+| 2º Semestre  | [CRUD para gerenciamento de quadro de presenças]()             |
+| 3º Semestre  | [Sistema para armazenar, consultar e processar gastos com contas de água, energia e gás]()  |
+| 4º Semestre  | [Aplicação web para controle de jornada de trabalho de hora extras e sobreavisos]()       |
+| 5º Semestre  | [Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC)]()                           |
+| 6º Semestre  |                                                                                       |
+
 
 ### Em 2021-1
 Esse foi o meu primeiro API, não tinha tido nenhum contato com a área de TI antes de ingressar na Fatec. A proposta  passada foi a criação de um site para uma ONG, que ajudava crianças, divulgando seus feitos, para buscar mais visibilidade, assim, atraindo mais doações e inscrições de voluntários para os projetos existentes e criação de novos. Para realização, nós alunos nos dividimos em grupos, que se organizaram usando de metodologias ágeis, como Scrum. Visando os requisitos do cliente para solução de seus problemas(necessidade de mais interessados em ajudar a ONG), fizemos um site onde era exposto às atividades da ONG, seu propósito, de ajudar cada vez mais crianças e com páginas de cadastros para os interessados em ajudar, podendo ser de doações, voluntariado ou ideias de projetos e parcerias.
