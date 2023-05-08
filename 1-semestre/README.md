@@ -12,7 +12,9 @@ Esse foi o meu primeiro API, não tinha tido nenhum contato com a área de TI an
 ### Front-End
 
 HTML: Para criação das páginas do site;
+
 CSS: Para estilização;
+
 JS: Para maior dinamicidade e funcionalidades ao site.
 
 ### Back-End
@@ -23,10 +25,15 @@ PHP:  Para troca de informações com o banco de dados com os métodos POST e GE
 ### Ferramentas para desenvolvimento
 
 PHPMyAdmin: Para o banco de dados do site;
+
 XAMP: Para hospedar a aplicação;
+
 Visual Studio Code: Editor de código;
+
 Discord: Reuniões da equipe;
+
 GIT: Versionamento de código;
+
 Figma: Pra realização de protótipos.
 
 #### Contribuições Pessoais
@@ -35,18 +42,29 @@ Na realização desse projeto atuei como Scrum Master, sendo então a pessoa que
 #### Hard Skills
 
 Consigo utilizar com autonomia:
+
 HTML
+
 CSS
+
 JS
+
 Metodologia Scrum
+
 Visual Studio Code
+
 Figma
+
 GIT
+
 GitHub
 
 Preciso de mais atenção:
+
 PHP
+
 XAMP
+
 MySQL
 
 
