@@ -29,7 +29,7 @@ GIT: Versionamento de código;
 Figma: Pra realização de protótipos.
 
 #### Contribuições Pessoais
-Na realização desse projeto atuei sendo desenvolvedora, sendo então a pessoa que buscava ajudar o grupo aplicando da metodologia Scrum, como as reuniões para organização, para garantir que todos fizessem as melhores práticas, reduzindo os impedimentos no decorrer do projeto, para entregas com valor, com um fluxo de trabalho equilibrado e transparência entre os integrantes do grupo no processo. Também ajudei na organização da documentação no GitHub e na criação de algumas páginas(parte do front-end)
+Na realização desse projeto atuei sendo scrum master, sendo então a pessoa que buscava ajudar o grupo aplicando da metodologia Scrum, como as reuniões para organização, para garantir que todos fizessem as melhores práticas, reduzindo os impedimentos no decorrer do projeto, para entregas com valor, com um fluxo de trabalho equilibrado e transparência entre os integrantes do grupo no processo. Também ajudei na organização da documentação no GitHub e na criação de algumas páginas(parte do front-end)
 
 #### Hard Skills
 
