@@ -72,3 +72,9 @@ Trabalho em equipe: Todos membros trabalhando juntos para um objetivo em comum.
 Comunicação: Para garantir sintonia entre todosos membros do grupo em cada fase do projeto.
 
 Empatia: Entender as necessidades e expectativas de todos os membros para garantir um ambiente colaborativo.
+
+Pensamento crítico: para resolver problemas, encontrando as melhores soluções.
+
+Flexibilidade: Ser adaptável com as mudanças necessárias.
+
+Gerenciamento de tempo: Para garantir que as tarefas sejam concluídas dentro do prazo.
