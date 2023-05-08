@@ -12,40 +12,55 @@ Esse foi o projeto do segundo semestre, contando com uma empresa parceira, a Jet
 ### Front-End
 
 HTML: Linguagem de marcação usada;
+
 CSS: Linguagem de estilização;
+
 JS: Linguagem de programação para as funcionalidades do site.
 
 ### Back-End
 
 MySQL: Linguagem de programação para banco de dados.
+
 PHP: Linguagem de programação usada para fazer as operações de CRUD.
 
 ### Ferramentas para desenvolvimento
 
 PHPMyAdmin: Para o banco de dados do site;
+
 Visual Studio Code: Editor de código;
+
 Discord: Reuniões da equipe;
+
 GIT: Versionamento de código;
+
 Figma: Pra realização de protótipos.
 
 #### Contribuições Pessoais
-Na realização desse projeto atuei sendo desenvolvedora, sendo então a pessoa que buscava ajudar o grupo aplicando da metodologia Scrum, como as reuniões para organização, para garantir que todos fizessem as melhores práticas, reduzindo os impedimentos no decorrer do projeto, para entregas com valor, com um fluxo de trabalho equilibrado e transparência entre os integrantes do grupo no processo. Também ajudei na organização da documentação no GitHub e na criação de algumas páginas(parte do front-end)
+Na realização desse projeto atuei sendo desenvolvedora, focando mais na parte de front-end, para realizaçãode telas, juntamente com toda equipe aplicando da metodologia Scrum.
 
 #### Hard Skills
 
 Consigo utilizar com autonomia:
 HTML
+
 CSS
+
 JS
+
 Metodologia Scrum
+
 Visual Studio Code
+
 Figma
+
 GIT
+
 GitHub
 
 Preciso de mais atenção:
+
 PHP
-XAMP
+
 MySQL
 
 
