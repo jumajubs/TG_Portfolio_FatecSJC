@@ -41,6 +41,7 @@ Na realização desse projeto atuei sendo desenvolvedora, focando mais na parte 
 #### Hard Skills
 
 Consigo utilizar com autonomia:
+
 HTML
 
 CSS
@@ -65,9 +66,12 @@ MySQL
 
 
 #### Soft Skills
+
 Trabalho em equipe: Todos membros trabalhando juntos para um objetivo em comum. 
 
 Comunicação: Para garantir sintonia entre todosos membros do grupo em cada fase do projeto.
 
 Empatia: Entender as necessidades e expectativas de todos os membros para garantir um ambiente colaborativo.
+
+Pensamento crítico: para resolver problemas, encontrando as melhores soluções.
 
