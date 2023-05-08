@@ -12,13 +12,19 @@ Esse foi o projeto do terceiro semestre, contando com uma empresa parceira, a Te
 ### Front-End
 
 HTML: Linguagem de marcação usada;
+
 CSS: Linguagem de estilização;
+
 JS: Linguagem de programação para as funcionalidades do site.
+
 Bootstrap: Framework para facilitar o desenvolvimento das interfaces gráficas.
 
 ### Back-End
+
 MySQL: Linguagem de programação para banco de dados.
+
 Java: Linguagem de programação para backend.
+
 Spring: Framework para desenvolvimento em Java.
 
 ### Ferramentas para desenvolvimento
@@ -34,22 +40,35 @@ Na realização desse projeto atuei sendo scrum master, sendo então a pessoa qu
 #### Hard Skills
 
 Consigo utilizar com autonomia:
+
 HTML
+
 CSS
+
 JS
+
 Metodologia Scrum
+
 Visual Studio Code
+
 Figma
+
 GIT
+
 GitHub
 
 Preciso de mais atenção:
-PHP
-XAMP
+
+Java
+
+Spring
+
 MySQL
 
 
 #### Soft Skills
 Trabalho em equipe: Todos membros trabalhando juntos para um objetivo em comum. 
+
 Comunicação: Para garantir sintonia entre todosos membros do grupo em cada fase do projeto.
+
 Empatia: Entender as necessidades e expectativas de todos os membros para garantir um ambiente colaborativo.
