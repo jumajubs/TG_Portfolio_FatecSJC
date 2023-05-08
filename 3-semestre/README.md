@@ -30,8 +30,11 @@ Spring: Framework para desenvolvimento em Java.
 ### Ferramentas para desenvolvimento
 
 Visual Studio Code: Editor de código;
+
 Discord: Reuniões da equipe;
+
 GIT: Versionamento de código;
+
 Figma: Pra realização de protótipos.
 
 #### Contribuições Pessoais
