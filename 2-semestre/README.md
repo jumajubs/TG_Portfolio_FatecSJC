@@ -66,6 +66,8 @@ MySQL
 
 #### Soft Skills
 Trabalho em equipe: Todos membros trabalhando juntos para um objetivo em comum. 
+
 Comunicação: Para garantir sintonia entre todosos membros do grupo em cada fase do projeto.
+
 Empatia: Entender as necessidades e expectativas de todos os membros para garantir um ambiente colaborativo.
 
