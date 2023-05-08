@@ -5,7 +5,7 @@ Esse foi o projeto do segundo semestre, contando com uma empresa parceira, a Jet
 
 
 
-[Repositório com o projeto]([https://github.com/Iridium-FATEC/PI-IRIDIUM](https://github.com/Inodevs/Inodevs))
+[Repositório com o projeto](https://github.com/Inodevs/Inodevs)
 
 #### Tecnologias Utilizadas
 
