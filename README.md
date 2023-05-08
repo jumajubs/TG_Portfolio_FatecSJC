@@ -16,8 +16,8 @@ Durante a faculdade já tive contato com tecnologias como: HTML, CSS, JS, ReactJ
 | Semestre     | Descrição                                                                             |
 | ------------ | ------------------------------------------------------------------------------------- |
 | 1º Semestre  | [Website para uma ONG de apoio para crianças](https://github.com/jumajubs/TG_Portfolio_FatecSJC/blob/main/1-semestre/README.md)                                             |
-| 2º Semestre  | [CRUD para gerenciamento de quadro de presenças]()             |
-| 3º Semestre  | [Sistema para armazenar, consultar e processar gastos com contas de água, energia e gás]()  |
+| 2º Semestre  | [CRUD para gerenciamento de quadro de presenças](https://github.com/jumajubs/TG_Portfolio_FatecSJC/tree/main/2-semestre)             |
+| 3º Semestre  | [Sistema para armazenar, consultar e processar gastos com contas de água, energia e gás](https://github.com/jumajubs/TG_Portfolio_FatecSJC/tree/main/3-semestre)  |
 | 4º Semestre  | [Aplicação web para controle de jornada de trabalho de hora extras e sobreavisos]()       |
 | 5º Semestre  | [Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC)]()                           |
 | 6º Semestre  |                                                                                       |
