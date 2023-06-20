@@ -1,14 +1,13 @@
 ### Em 2023-1
 Esse foi o projeto do quinto semestre, com uma empresa parceira, a IACIT. O objetivo foi o desenvolvimento de uma aplicação híbrida, de serviços de atendimento ao cliente, onde é realizado um registro de ocorrência pelo cliente, que é atendido por algum colaborador, que entrará em contato através de um chat.
 
-<h1 align="center"><img src = "https://github.com/GustavoAndo/portifolio-TG/blob/main/5-semestre/README.md" width="100%" height="580px"></h1>
+<h1 align="center"><img src = "https://github.com/GustavoAndo/portifolio-TG/blob/main/img/5-semestre-app.gif" width="100%" height="580px"></h1>
 versão web
 <h1 align="center"><img src = "https://github.com/GustavoAndo/portifolio-TG/blob/main/img/5-semestre-app.gif" width="100%" height="580px"></h1>
 versão app
 
 
-
-[Repositório com o projeto](https://github.com/NewInoDevs/NewInoDevs)
+[Repositório com o projeto](https://github.com/inodevs-5/Reportify_Doc)
 
 #### Tecnologias Utilizadas
 
