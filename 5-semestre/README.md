@@ -14,86 +14,86 @@ versão app
 
 ### Front-End
 
-HTML: Linguagem de marcação usada;
+* HTML: Linguagem de marcação usada;
 
-CSS: Linguagem de estilização;
+* CSS: Linguagem de estilização;
 
-React-Native: Para desenvolvimento de sistemas Android e IOS de forma nativa;
+* React-Native: Para desenvolvimento de sistemas Android e IOS de forma nativa;
 
-React: Para o desenvolvimento web;
+* React: Para o desenvolvimento web;
 
-TypeScript: linguagem de programação.
+* TypeScript: linguagem de programação.
 
 .
 
 ### Back-End
 
-NodeJS: para execução de JavaScript ;
+* NodeJS: para execução de JavaScript ;
 
-JavaScript: linguagem de programação para contrução do Back-End;
+* JavaScript: linguagem de programação para contrução do Back-End;
 
-MongoDB: banco de dados NoSQL para pesistência de dados;
+* MongoDB: banco de dados NoSQL para pesistência de dados;
 
-Mongoose: ORM em JavaScript para o MongoDB.
+* Mongoose: ORM em JavaScript para o MongoDB.
 
 
 ### Ferramentas para desenvolvimento
 
-Visual Studio Code: Editor de código;
+* Visual Studio Code: Editor de código;
 
-Discord: Reuniões da equipe;
+* Discord: Reuniões da equipe;
 
-GIT: Versionamento de código;
+* GIT: Versionamento de código;
 
-Figma: Pra realização de protótipos.
+* Figma: Pra realização de protótipos.
 
 #### Contribuições Pessoais
 Na realização desse projeto atuei sendo desenvolvedora Front-end, codifiquei telas para a aplicação mobile e web, seguindo os requisitos do cliente para uma interface intuitiva para realização dos cadastros dos registros de ocorrênciae chat entre colaborador e cliente.
 
 #### Hard Skills
 
-Consigo utilizar com autonomia:
+###Consigo utilizar com autonomia:
 
-HTML
+* HTML
 
-CSS
+* CSS
 
-JS
+* JS
 
-Metodologia Scrum
+* Metodologia Scrum
 
-Visual Studio Code
+* Visual Studio Code
 
-Figma
+* Figma
 
-GIT
+* GIT
 
-GitHub
+* GitHub
 
-Preciso de mais atenção:
+* Preciso de mais atenção:
 
-TypeScript
+* TypeScript
 
-React Native
+* React Native
 
-React
+* React
 
-NodeJS 
+* NodeJS 
 
-Mongoose
+* Mongoose
 
-MongoDB
+* MongoDB
 
 #### Soft Skills
-Trabalho em equipe: Todos membros trabalhando juntos para um objetivo em comum. 
+* Trabalho em equipe: Todos membros trabalhando juntos para um objetivo em comum. 
 
-Comunicação: Para garantir sintonia entre todosos membros do grupo em cada fase do projeto.
+* Comunicação: Para garantir sintonia entre todosos membros do grupo em cada fase do projeto.
 
-Empatia: Entender as necessidades e expectativas de todos os membros para garantir um ambiente colaborativo.
+* Empatia: Entender as necessidades e expectativas de todos os membros para garantir um ambiente colaborativo.
 
-Pensamento crítico: para resolver problemas, encontrando as melhores soluções.
+* Pensamento crítico: para resolver problemas, encontrando as melhores soluções.
 
-Flexibilidade: Ser adaptável com as mudanças necessárias.
+* Flexibilidade: Ser adaptável com as mudanças necessárias.
 
-Gerenciamento de tempo: Para garantir que as tarefas sejam concluídas dentro do prazo.
+* Gerenciamento de tempo: Para garantir que as tarefas sejam concluídas dentro do prazo.
 
