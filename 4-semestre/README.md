@@ -11,78 +11,76 @@ Esse foi o projeto do quarto semestre, com uma empresa parceira, a 2RP. O objeti
 
 ### Front-End
 
-HTML: Linguagem de marcação;
+* HTML: Linguagem de marcação;
 
-CSS: Linguagem de estilização;
+* CSS: Linguagem de estilização;
 
-TypeScrip: Linguagem de programação;
+* TypeScrip: Linguagem de programação;
 
-React: Framework para facilitar o desenvolvimento das interfaces gráficas.
+* React: Framework para facilitar o desenvolvimento das interfaces gráficas.
 
 ### Back-End
 
-TypeScrip: Linguagem de programação;
+* TypeScrip: Linguagem de programação;
 
-NodeJS: Para execução de JavaScript de maneira similar ao navegador web;
+* NodeJS: Para execução de JavaScript de maneira similar ao navegador web;
 
-TypeORM: Para da persistência de dados;
+* TypeORM: Para da persistência de dados;
 
-PostgreSQL: Linguagem de programação para banco de dados e pesistência de dados.
+* PostgreSQL: Linguagem de programação para banco de dados e pesistência de dados.
 
 ### Ferramentas para desenvolvimento
 
-Visual Studio Code: Editor de código;
+* Visual Studio Code: Editor de código;
 
-Discord: Reuniões da equipe;
+* Discord: Reuniões da equipe;
 
-GIT: Versionamento de código;
+* GIT: Versionamento de código;
 
-Figma: Pra realização de protótipos.
+* Figma: Pra realização de protótipos.
 
 #### Contribuições Pessoais
 Na realização desse projeto atuei sendo desenvolvedora,principalmente com front-end, criando telas com React, buscando seguir o protótipo do figma, para proporcionar uma interface intuitiva e agradável.
 
 #### Hard Skills
+### Consigo utilizar com autonomia:
+* HTML
 
-Consigo utilizar com autonomia:
+* CSS
 
-HTML
+* JS
 
-CSS
+* Metodologia Scrum
 
-JS
+* Visual Studio Code
 
-Metodologia Scrum
+* Figma
 
-Visual Studio Code
+* GIT
 
-Figma
+* GitHub
 
-GIT
+### Preciso de mais atenção:
 
-GitHub
+* React
 
-Preciso de mais atenção:
+* NodeJS
 
-React
+* Typeorm
 
-NodeJS
-
-Typeorm
-
-MySQL
+* MySQL
 
 
 #### Soft Skills
-Trabalho em equipe: Todos membros trabalhando juntos para um objetivo em comum. 
+* Trabalho em equipe: Todos membros trabalhando juntos para um objetivo em comum. 
 
-Comunicação: Para garantir sintonia entre todosos membros do grupo em cada fase do projeto.
+* Comunicação: Para garantir sintonia entre todosos membros do grupo em cada fase do projeto.
 
-Empatia: Entender as necessidades e expectativas de todos os membros para garantir um ambiente colaborativo.
+* Empatia: Entender as necessidades e expectativas de todos os membros para garantir um ambiente colaborativo.
 
-Pensamento crítico: para resolver problemas, encontrando as melhores soluções.
+* Pensamento crítico: para resolver problemas, encontrando as melhores soluções.
 
-Flexibilidade: Ser adaptável com as mudanças necessárias.
+* Flexibilidade: Ser adaptável com as mudanças necessárias.
 
-Gerenciamento de tempo: Para garantir que as tarefas sejam concluídas dentro do prazo.
+* Gerenciamento de tempo: Para garantir que as tarefas sejam concluídas dentro do prazo.
 
