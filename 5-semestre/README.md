@@ -12,7 +12,6 @@ versão app
 #### Tecnologias Utilizadas
 
 ### Front-End
-
 * HTML: Linguagem de marcação usada;
 
 * CSS: Linguagem de estilização;
@@ -26,7 +25,6 @@ versão app
 .
 
 ### Back-End
-
 * NodeJS: para execução de JavaScript ;
 
 * JavaScript: linguagem de programação para contrução do Back-End;
@@ -37,7 +35,6 @@ versão app
 
 
 ### Ferramentas para desenvolvimento
-
 * Visual Studio Code: Editor de código;
 
 * Discord: Reuniões da equipe;
@@ -50,9 +47,7 @@ versão app
 Na realização desse projeto atuei sendo desenvolvedora Front-end, codifiquei telas para a aplicação mobile e web, seguindo os requisitos do cliente para uma interface intuitiva para realização dos cadastros dos registros de ocorrênciae chat entre colaborador e cliente.
 
 #### Hard Skills
-
-###Consigo utilizar com autonomia:
-
+### Consigo utilizar com autonomia:
 * HTML
 
 * CSS
