@@ -1,8 +1,13 @@
 # Júlia Maria Santos Barroso
 
 ## Introdução
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/jumajubs/TG_Portfolio_FatecSJC/blob/main/j.jpg" style="float: right; width: 20%; margin-left: 20px;">
+  <p>
+    Eu ingressei no curso de tecnólogo em análise e desenvolvimento de sistemas na FATEC-SJC, no primeiro semestre de 2021. Tenho uma graduação em radiologia, ao decorrer desse curso conheci um pouco de tecnologia da informação, e a partir disso decidi que minha próxima graduação seria nessa área. Eu trabalhei como Jovem Aprendiz de cobradora de ônibus durante um ano, entre 2018 e 2019, fui estagiária em radiologia odontológica, de setembro até dezembro de 2020 e atualmente faço iniciação cientifica no INPE, que iniciei em setembro de 2022.
+  </p>
+</div>
 
-Eu ingressei no curso de tecnólogo em análise e desenvolvimento de sistemas na FATEC-SJC, no primeiro semestre de 2021. Tenho uma graduação em radiologia, ao decorrer desse curso conheci um pouco de tecnologia da informação, e a partir disso decidi que minha próxima graduação seria nessa área. Eu trabalhei como Jovem Aprendiz de cobradora de ônibus durante um ano, entre 2018 e 2019, fui estagiária em radiologia odontológica, de setembro até dezembro de 2020 e atualmente faço iniciação cientifica no INPE, que iniciei em setembro de 2022.
 ## Contatos
 * [Github](https://github.com/jumajubs)
 * [LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188)
