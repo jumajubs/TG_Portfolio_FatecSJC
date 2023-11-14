@@ -1,7 +1,7 @@
 ### Em 2023-2
 Esse foi o projeto do sexto semestre, contando com uma empresa parceira, a Pro4tech. O objetivo foi criar um sistema que com base na área e senioridade inseridas pelo usuário, fosse feita uma busca no chatGPT pela descrição de competencias, habilidades e atitudes esperadas para esse profissional e com essas informações fosse realizada a busca pelos candidatos ideais.
 
-<h1 align="center"><img src = "" width="100%" height="580px"></h1>
+<h1 align="center"><img src = "https://github.com/jumajubs/TG_Portfolio_FatecSJC/blob/main/gifs/6-semestre.gif" width="100%" height="580px"></h1>
 
 
 
