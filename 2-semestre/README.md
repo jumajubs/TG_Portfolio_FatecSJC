@@ -35,10 +35,10 @@ GIT: Versionamento de código;
 
 Figma: Pra realização de protótipos.
 
-#### Contribuições Pessoais
+### Contribuições Pessoais
 Na realização desse projeto atuei sendo desenvolvedora, focando mais na parte de front-end, para realizaçãode telas, juntamente com toda equipe aplicando da metodologia Scrum.
 
-#### Hard Skills
+### Hard Skills
 
 Consigo utilizar com autonomia:
 
@@ -65,7 +65,7 @@ PHP
 MySQL
 
 
-#### Soft Skills
+### Soft Skills
 
 Trabalho em equipe: Todos membros trabalhando juntos para um objetivo em comum. 
 
