@@ -43,10 +43,10 @@ versão app
 
 * Figma: Pra realização de protótipos.
 
-#### Contribuições Pessoais
+### Contribuições Pessoais
 Na realização desse projeto atuei sendo desenvolvedora Front-end, codifiquei telas para a aplicação mobile e web, seguindo os requisitos do cliente para uma interface intuitiva para realização dos cadastros dos registros de ocorrênciae chat entre colaborador e cliente.
 
-#### Hard Skills
+### Hard Skills
 ### Consigo utilizar com autonomia:
 * HTML
 
@@ -78,7 +78,7 @@ Na realização desse projeto atuei sendo desenvolvedora Front-end, codifiquei t
 
 * MongoDB
 
-#### Soft Skills
+### Soft Skills
 * Trabalho em equipe: Todos membros trabalhando juntos para um objetivo em comum. 
 
 * Comunicação: Para garantir sintonia entre todosos membros do grupo em cada fase do projeto.
