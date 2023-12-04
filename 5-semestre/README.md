@@ -44,7 +44,7 @@ versão app
 * Figma: Pra realização de protótipos.
 
 ### Contribuições Pessoais
-Na realização desse projeto atuei sendo desenvolvedora Front-end, codifiquei telas para a aplicação mobile e web, seguindo os requisitos do cliente para uma interface intuitiva para realização dos cadastros dos registros de ocorrênciae chat entre colaborador e cliente.
+Na realização desse projeto atuei sendo desenvolvedora Front-end, codifiquei telas para a aplicação mobile e web,como as telas de chat e notificações, seguindo os requisitos do cliente para uma interface intuitiva para realização dos cadastros dos registros de ocorrênciae chat entre colaborador e cliente.
 
 ### Hard Skills
 ### Consigo utilizar com autonomia:
