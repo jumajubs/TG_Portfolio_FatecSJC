@@ -39,10 +39,10 @@ Esse foi o projeto do quarto semestre, com uma empresa parceira, a 2RP. O objeti
 
 * Figma: Pra realização de protótipos.
 
-#### Contribuições Pessoais
+### Contribuições Pessoais
 Na realização desse projeto atuei sendo desenvolvedora,principalmente com front-end, criando telas com React, buscando seguir o protótipo do figma, para proporcionar uma interface intuitiva e agradável.
 
-#### Hard Skills
+### Hard Skills
 ### Consigo utilizar com autonomia:
 * HTML
 
@@ -71,7 +71,7 @@ Na realização desse projeto atuei sendo desenvolvedora,principalmente com fron
 * MySQL
 
 
-#### Soft Skills
+### Soft Skills
 * Trabalho em equipe: Todos membros trabalhando juntos para um objetivo em comum. 
 
 * Comunicação: Para garantir sintonia entre todosos membros do grupo em cada fase do projeto.
