@@ -46,12 +46,12 @@ Esse foi o projeto do sexto semestre, contando com uma empresa parceira, a Pro4t
 
 - Figma: Pra realização de protótipos.
 
-#### Contribuições Pessoais
+### Contribuições Pessoais
 Na realização desse projeto fui do time de desenvolvimento onde participei das reuniões para alinhamento e decisões em conjunto com a equipe, inicialmente tive envolvimento na criação do algorimo de inteligencia artificial, colaborando com outros membros da equipe, após isso foquei mais no frontend, que foi realizado seguindo o protótipo validado pelo cliente. do projeto e atuei nas decisões em grupo, 
 
 ### Hard Skills
 
-#### Consigo utilizar com autonomia:
+### Consigo utilizar com autonomia:
 
 - HTML;
 
@@ -84,7 +84,7 @@ Preciso de mais atenção:
 - Pythoon.
 
   
-#### Soft Skills
+### Soft Skills
 - Trabalho em equipe: Trabalho colaborativo para atingir o objetivo das entregas. 
 
 - Comunicação: Abordagens claras e transparentes para garantir sintonia entre todos os membros do grupo em cada fase do projeto.
