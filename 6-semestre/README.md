@@ -46,8 +46,8 @@ Esse foi o projeto do sexto semestre, contando com uma empresa parceira, a Pro4t
 
 - Figma: Pra realização de protótipos.
 
-### Contribuições Pessoais
-Na realização desse projeto fui do time de desenvolvimento onde participei das reuniões para alinhamento e decisões em conjunto com a equipe, inicialmente tive envolvimento na criação do algorimo de inteligencia artificial, colaborando com outros membros da equipe, após isso foquei mais no frontend, que foi realizado seguindo o protótipo validado pelo cliente. do projeto e atuei nas decisões em grupo, 
+### Contribuições Pessoais 
+Na realização desse projeto fui do time de desenvolvimento onde,participei nas reuniões para alinhamento e decisões em conjunto com a equipe, colaborei com outros membros para criação do algoritmo de inteligência artificial, realizei o front-end das interfaces de Cadastro de empresa, redefinição de senha, ranqueamento de candidatos, notificações e edição de empresa​, que foram feitos de acordo com protótipo feito pelo PO e validado com o cliente e ajudei nas modificações na documentação.
 
 ### Hard Skills
 
